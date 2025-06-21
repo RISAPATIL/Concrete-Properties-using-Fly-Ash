@@ -2,6 +2,8 @@
 
 This repository provides an overview of our research project focused on predicting **compressive strength** and **weight loss percentage** in fly ash concrete exposed to high temperatures, using machine learning techniques.
 
+🧪 First known dual-output ML framework for simultaneous prediction of compressive strength and weight loss in fly ash concrete due to increase in temperature.
+
 > 📢 _This work is currently under review and will be published soon._
 
 ## 🧠 Summary
