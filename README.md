@@ -8,6 +8,19 @@ This repository provides an overview of our research project focused on predicti
 
 The study is based on experimental data from 1,127 concrete specimens with varied fly ash content (0%–30%) and thermal exposure (ambient to 1000°C). A range of supervised machine learning models were evaluated.
 
+## 🛠️ Tools & Technologies Used
+
+- **Programming Language**: Python 3  
+- **Libraries & Frameworks**:
+  - Scikit-learn
+  - CatBoost
+  - XGBoost
+  - Statsmodels
+  - PyGAM (Generalized Additive Models)
+  - NumPy, Pandas, Matplotlib, Seaborn
+- **Development Environment**:
+  - Jupyter Notebook
+  - 
 ### 🔢 Model Performance of a few models we applied- (R² Score)
 
 | Model                            | Compressive Strength | Weight Loss % |
