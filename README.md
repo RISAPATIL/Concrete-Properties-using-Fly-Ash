@@ -22,7 +22,7 @@ The study is based on experimental data from 1,127 concrete specimens with varie
   - NumPy, Pandas, Matplotlib, Seaborn
 - **Development Environment**:
   - Jupyter Notebook
-  - 
+    
 ### 🔢 Model Performance of a few models we applied- (R² Score)
 
 | Model                            | Compressive Strength | Weight Loss % |
